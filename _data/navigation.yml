@@ -6,14 +6,14 @@
   link: /#
   dropdown:
     - name: SQL 
-      link: /
+      link: /sql
     - name: MongoDB and PyMongo
-      link: /
+      link: /mongodb-pymongo
     - name: Python GIS
-      link: /
+      link: /python-gis
     - name: Tableau Data Viz
-      link: /
+      link: /tableau-dataviz
     - name: Descriptive analysis
-      link: /
+      link: /descriptive-analysis
 - name: Contact
   link: /contact
