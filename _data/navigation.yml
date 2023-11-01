@@ -1,5 +1,5 @@
 - name: About
-  link: /
+  link: /about
 - name: Blog
   link: /blog/
 - name: Portfolio
@@ -16,4 +16,4 @@
     - name: Descriptive analysis
       link: /
 - name: Contact
-  link: /
+  link: /contact
