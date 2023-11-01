@@ -14,7 +14,7 @@ permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-theme_color: '#1b595d'
+#theme_color: '#1b595d' #No funciona, editar assets/css/app.scss
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 

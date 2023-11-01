@@ -1,5 +1,7 @@
 ---
 layout: page
 permalink: /
-title: Notes about my journey through data
+title: "Swell: data"
+subtitle: Just me trying to catch these weird waves
+#subtitle: Notes about my journey through data
 ---
