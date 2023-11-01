@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /home
-title: Home
+permalink: /
+title: Alvaro Villarroel
 subtitle: Notes about my journey through data
 ---
