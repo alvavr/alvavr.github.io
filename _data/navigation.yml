@@ -1,0 +1,19 @@
+- name: About
+  link: /
+- name: Blog
+  link: /blog/
+- name: Portfolio
+  link: /#
+  dropdown:
+    - name: SQL 
+      link: /
+    - name: MongoDB and PyMongo
+      link: /
+    - name: Python GIS
+      link: /
+    - name: Tableau Data Viz
+      link: /
+    - name: Descriptive analysis
+      link: /
+- name: Contact
+  link: /
