@@ -21,21 +21,21 @@ My second motivation for this project, is the fact that I am living abroad in a 
 ## Project idea
 As it was briefly mentioned before, this website will be divided intro three main categories: Personal blog post, Technical blog post and portfolio projects.
 
-### Technical Blog Posts
+#### Technical Blog Posts
 Technical notes or tutorials I consider to be useful for my future self (and if this helps a random stranger, even better).
 
 Also, my personal thoughts about the state of the industry, technologies and concepts, such as data science, data lakes, artificial intelligence, among others (oh, does anyone remember something called "decision support systems" or DSS for short?). 
 
-### Personal Blog Posts
+#### Personal Blog Posts
 This section will have content about my hobbies, and opinions about the city and life in general. I'll try to organize everything with proper categories for easy navigation.
 
-### Portfolio
+#### Portfolio
 At first, I will leave here work I have done for my master's assignments. Then, I will also put here my personal projects, and finally (if I could get authorization), I will publish here work I have done for actual clients.
 
 ## Website theme
 The name "Swell: data" is all about combining my greatest passion, which is Surf, and my work (which I also love).
 
-As you might know, surf can only be done when mother nature bless us with waves. And when that happen every surfer struggles to decide which beach to go, at what time it best, which equipment to carry, etc. With today data related trends I feel the same is happening, everyone (myself included) is struggling trying to make sense of the vast amount of data concepts, technologies and products popping out every single day.  
+As you might know, surf can only be done when mother nature bless us with waves. And when that happen every surfer struggles to decide which beach to go, what time is the best, which equipment to carry, etc. With today data related trends I feel the same is happening, everyone (myself included) is struggling trying to make sense of the vast amount of data concepts, technologies and products popping out every single day.  
 
 ## Audience
 Everyone is welcome! 
