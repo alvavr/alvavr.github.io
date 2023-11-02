@@ -42,10 +42,4 @@ Everyone is welcome!
 
 Also, feel free so email me with suggestions or corrections about the content of a post.
 
-Shaka's to everyone.
-A.V
-
-
-
-
-
+Shaka's to everyone 🤙.
