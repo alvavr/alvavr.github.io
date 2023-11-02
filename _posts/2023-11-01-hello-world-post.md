@@ -4,7 +4,7 @@ title:  "Hello World Post"
 date:   2023-11-01 23:22:01
 categories: personal
 description: "This is my first blog post ever, hence the name of the post"
-image: 'img/hello-world-post-ocean.jpg'
+image: 'https://alvavr.github.io//img/hello-world-post-ocean.jpg'
 published: true
 canonical_url: https://alvavr.github.io/personal/2023/11/01/hello-world-post.html
 ---
