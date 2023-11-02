@@ -40,6 +40,6 @@ As you might know, surf can only be done when mother nature bless us with waves.
 ## Audience
 Everyone is welcome! 
 
-Also, feel free so email me with suggestions or corrections about the content of a post.
+Also, feel free so email me with suggestions or corrections about post contents.
 
 Shaka's to everyone 🤙.
