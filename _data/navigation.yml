@@ -7,7 +7,7 @@
   dropdown:
     - name: SQL 
       link: /sql
-    - name: MongoDB and PyMongo
+    - name: NEOs (MongoDB + PyMongo)
       link: /mongodb-pymongo
     - name: Python GIS
       link: /python-gis
