@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /mongodb-pymongo
-title: "MongoDB and PyMongo"
+title: "NEOs (MongoDB + PyMongo)"
 subtitle: NEO analysis using MongoDB and PyMongo.
 ---
 
