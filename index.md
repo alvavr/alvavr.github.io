@@ -5,6 +5,12 @@ title: "Swell: data"
 subtitle: Just me trying to catch these weird waves
 ---
 
-### Website Status
+### Featured Page
 
-![Under construction banner](https://alvavr.github.io//img/under-construction.png)
+Check out the latest item in my portfolio at [Swell Events](/sql).
+
+Swell Events is a small database used managing a event company. 
+
+For more details check the [project page](/sql).
+
+Alvaro V.
