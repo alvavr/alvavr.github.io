@@ -4,8 +4,6 @@ permalink: /sql
 title: "SQL"
 subtitle: Simple mysql database model for managing events.
 ---
-**Page under construction**
-
 This project is a simple database model for managing events, featuring the following:
 * Multiple and custom activity types (concerts, art expositions, musicals and so on)
 * Multiple events of the same activity (is your concert sold out? schedule a new date for it)
@@ -22,6 +20,8 @@ The purpose of this work is to show case the process of modeling a database, fro
 * Advanced queries (window functions)
 
 **Note:** This is not intended to be a fully working, production ready database model.
+
+The full project repository can be found here: [https://github.com/alvavr/sql](https://github.com/alvavr/sql)
 
 ![ER model](https://alvavr.github.io//img/er-diagram.png)
 
