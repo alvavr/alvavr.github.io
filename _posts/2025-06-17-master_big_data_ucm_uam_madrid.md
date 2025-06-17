@@ -24,7 +24,7 @@ Ambas universidades se encuentran dentro del top 10 de universidades españolas,
 
 **Rankings:**
 
-![ARWU 2024 - Spain](https://alvavr.github.io//img/ranking_arwu_2024_spain.png)
+![ARWU 2024 - Spain](https://alvavr.github.io//img/ranking_arwu_2024_spain.png){: width="350" }
 
 * UAM: 3-8 ([ARWU 2024](https://www.shanghairanking.com/rankings/arwu/2024))
 * UCM: 3-8 ([ARWU 2024](https://www.shanghairanking.com/rankings/arwu/2024))
