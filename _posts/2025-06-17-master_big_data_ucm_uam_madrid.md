@@ -101,11 +101,15 @@ Adicionalmente algunas industrias estratégicas como defensa puede que exijan t�
 7. ¿Hay mucha programación?
 
     Si, pero la verdad no es tan dura como la carrera de informática. No tendrás que programar sistemas, ni saber de clases o programación orientada a objetos. Porque la programación que se utiliza en el máster es sólo programación de scripts. Es decir, tu programa es un archivo (script) y tal vez tendrá la complejidad de invocar a otros scripts. Para hacer que la parte de programación sea aún menos intimidante, es que hay una clase completa de aprender a programar en Python desde cero, donde literal aprenderás a programar sin ninguna experiencia previa.
-    
+
 
 8. ¿Ayudan a conseguir prácticas?
 
     No te ayudan en el sentido de que la universidad va a postular a trabajos por ti, sino que la universidad pondrá a tu disposición de algunas ofertas laborales (prácticas) exclusivas para los alumnos. No obstante, recomiendo mucho más buscar trabajo en una posición entry level que tendrás acceso a mejor salario. Cuesta más, pero vale más la pena.
+
+9. ¿El título dice que es de la Universidad complutense de Madrid o dice NTIC Máster?
+
+    Sólo hace referencia a la Universidad Complutense de Madrid.
 
 ## Conclusiones
 
