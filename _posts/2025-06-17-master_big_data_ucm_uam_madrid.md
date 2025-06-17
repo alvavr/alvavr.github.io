@@ -62,6 +62,7 @@ Adicionalmente algunas industrias estratégicas como defensa puede que exijan t�
     En lo académico pude aprender muchas cosas que no sabía (aun habiendo estudiado informática) y los contenidos son bastante actualizados, en especial la parte de inteligencia artificial, donde vimos temas como RAGs, transfer learning, embeedings, fine tunning y LLMs.
 
     Por otro lado, pude conocer muy buenos amigos con los cuales mantenemos contacto regular hasta el día de hoy, lo cual siempre viene bien, en especial cuando eres extranjero y llegas solo a una ciudad desconocida.
+    
     Con respecto al profesorado, son bastante buenos, dominan bastante cada uno de sus temas y en general se enfocan más en lo práctico que en lo teórico. salvo uno que otro profesor que no fueron de mi agrado, diría que el 90% de los profesores son buenos y tienen mi aprobación. El absoluto número uno en mi opinión, se lo lleva el profesor de Python Eduardo Carrión quien demostró ser el verdadero GOAT.
 
     Finalmente, en mi clase diría que los alumnos se distribuían en 60% españoles y 40% extranjeros.
