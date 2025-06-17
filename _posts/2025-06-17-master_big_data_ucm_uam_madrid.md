@@ -66,11 +66,13 @@ Adicionalmente algunas industrias estratégicas como defensa puede que exijan t�
 
     Finalmente, en mi clase diría que los alumnos se distribuían en 60% españoles y 40% extranjeros.
 
+
 2. ¿Enfoque práctico o teórico?
 
     Se nota bastante el enfoque práctico de este programa, y fue una de las cosas que más me llamó la atención de este programa. Estadística y Machine Learning diría que fueron las materias más teóricas, mientras que todo el resto han sido bastante prácticos, de mucho ejercicio, programación y horas de ejecutar código. 
 
     Se nota bastante que está orientado a personas que quieren ingresar al mercado del trabajo, en particular por las clases donde enseñan a poner en producción un modelo y en las que se enseñan "buenas prácticas" y consejos para cuando estés de verdad trabajando.
+
 
 3. ¿Has podido encontrar trabajo en algo relacionado al master?
 
@@ -78,23 +80,28 @@ Adicionalmente algunas industrias estratégicas como defensa puede que exijan t�
 
     No obstante, en este apartado creo que depende mucho de la perseverancia y la personalidad de cada persona al afrontar el trabajo, no creo que el máster te garantice encontrar un trabajo, si no que te aporta un pequeño boost, el cual va en cada persona saber aprovechar, en particular al enfrentarse a entrevistas de trabajo, que sí, necesitarás enfrentarte a muchas, y ser rechazado muchas veces. Así que, debes saber lidiar con la frustración (soft skills).
 
+
 4. ¿Es muy difícil?
 
     No, para nada. Lo más difícil es hacer el hábito de no dejar a última hora las tareas por que después se acumulan. Las matemáticas son más ilustrativas y te las pasan para que puedas entender más o menos como funcionan los algoritmos por debajo, pero en ningún momento te pedirán resolver una lista de ejercicios como en las clases de cálculo. Tal vez para la gente que no tenga experiencia previa en una carrera cuantitativa, le pueda costar un poco más, pero los profesores saben explicar de que va la materia, así que con un poco de estudio se logra. 
 
     En algunos casos sentirás que los profesores van muy rápido, y la verdad es que si, por que intentan compactar muchos contenidos en muy poco tiempo, esto es normal dado que es un programa de clases dos días a la semana. Pero tampoco nada tan terrible.
 
+
 5. ¿Se puede compatibilizar las horas de estudios con trabajo part-time?
 
     Si, el programa está estructurado para que puedas trabajar y estudiar al mismo tiempo (clases viernes en la tarde y sábados en la mañana). Es más, creo que puedes estudiar y tener un trabajo full-time si es que así lo deseas. Es totalmente posible si sabes organizar los tiempos.
+
 
 6. ¿Es necesario haber estudiado informática, matemáticas o similar? 
 
     No sé si el máster lo exige como requisito. No obstante, yo recomendaría que sí, ya que así te va a costar menos entender los conceptos. Diría que basta con tener nociones de cálculo y estadística es suficiente. Como explicaba anteriormente, sólo basta con tener las nociones de cómo se opera en cálculo, no es necesario que te acuerdes de memoria de como derivar o como resolver ecuaciones diferenciales, porque el máster no va de resolver ejercicios, si no de entender como operan los algoritmos para *enfocarse en su aplicación*.
 
+
 7. ¿Hay mucha programación?
 
     Si, pero la verdad no es tan dura como la carrera de informática. No tendrás que programar sistemas, ni saber de clases o programación orientada a objetos. Porque la programación que se utiliza en el máster es sólo programación de scripts. Es decir, tu programa es un archivo (script) y tal vez tendrá la complejidad de invocar a otros scripts. Para hacer que la parte de programación sea aún menos intimidante, es que hay una clase completa de aprender a programar en Python desde cero, donde literal aprenderás a programar sin ninguna experiencia previa.
+    
 
 8. ¿Ayudan a conseguir prácticas?
 
