@@ -62,7 +62,7 @@ Adicionalmente algunas industrias estratégicas como defensa puede que exijan t�
     En lo académico pude aprender muchas cosas que no sabía (aun habiendo estudiado informática) y los contenidos son bastante actualizados, en especial la parte de inteligencia artificial, donde vimos temas como RAGs, transfer learning, embeedings, fine tunning y LLMs.
 
     Por otro lado, pude conocer muy buenos amigos con los cuales mantenemos contacto regular hasta el día de hoy, lo cual siempre viene bien, en especial cuando eres extranjero y llegas solo a una ciudad desconocida.
-    
+
     Con respecto al profesorado, son bastante buenos, dominan bastante cada uno de sus temas y en general se enfocan más en lo práctico que en lo teórico. salvo uno que otro profesor que no fueron de mi agrado, diría que el 90% de los profesores son buenos y tienen mi aprobación. El absoluto número uno en mi opinión, se lo lleva el profesor de Python Eduardo Carrión quien demostró ser el verdadero GOAT.
 
     Finalmente, en mi clase diría que los alumnos se distribuían en 60% españoles y 40% extranjeros.
@@ -96,7 +96,7 @@ Adicionalmente algunas industrias estratégicas como defensa puede que exijan t�
 
 6. ¿Es necesario haber estudiado informática, matemáticas o similar? 
 
-    No sé si el máster lo exige como requisito. No obstante, yo recomendaría que sí, ya que así te va a costar menos entender los conceptos. Diría que basta con tener nociones de cálculo y estadística es suficiente. Como explicaba anteriormente, sólo basta con tener las nociones de cómo se opera en cálculo, no es necesario que te acuerdes de memoria de como derivar o como resolver ecuaciones diferenciales, porque el máster no va de resolver ejercicios, si no de entender como operan los algoritmos para *enfocarse en su aplicación*.
+    No sé si el máster lo exige como requisito. No obstante, yo recomendaría que sí, ya que así te va a costar menos entender los conceptos. Diría que basta con tener nociones de cálculo y estadística es suficiente. Como explicaba anteriormente, sólo basta con tener las nociones de cómo se opera en cálculo, no es necesario que te acuerdes de memoria de como derivar o como resolver ecuaciones diferenciales, porque el máster no va de resolver ejercicios, si no de entender como operan los algoritmos para **enfocarse en su aplicación.**
 
 
 7. ¿Hay mucha programación?
